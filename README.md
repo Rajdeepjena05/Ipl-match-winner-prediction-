@@ -180,17 +180,6 @@ The saved model can later be loaded for making predictions.
 
 model = joblib.load("ipl_model.pkl")
 
----
-
-📁 Project Structure
-
-IPL-Match-Prediction/
-│
-├── ipl.csv
-├── IPL_Match_Prediction.ipynb
-├── requirements.txt
-├── README.md
-└── ipl_model.pkl
 
 ---
 
@@ -206,7 +195,6 @@ cd IPL-Match-Prediction
 
 3. Install required libraries
 
-pip install -r requirements.txt
 
 4. Open Jupyter Notebook
 
@@ -235,19 +223,13 @@ Original Data Provider: Cricsheet
 
 ---
 
-⚠️ Disclaimer
-
-This project is created for educational and academic purposes.
-
-Machine Learning predictions are based on historical data and selected features. They should not be considered guaranteed predictions of actual IPL match results.
-
 ---
 
 👨‍💻 Author
 
 Rajdeep Jena
 
-Machine Learning / Data Science Project
+Machine Learning 
 
 ---
 
